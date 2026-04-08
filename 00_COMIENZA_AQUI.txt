@@ -1,246 +1,246 @@
-﻿â•”â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•—
-â•‘                                                                       â•‘
-â•‘                 ðŸŽ¯ BIENVENIDO! ðŸŽ¯                                    â•‘
-â•‘                                                                       â•‘
-â•‘              NMAP INTERACTIVE TUTOR                                  â•‘
-â•‘              Tu asistente educativo completo para Nmap               â•‘
-â•‘                                                                       â•‘
-â•‘              Â¡Tu programa estÃ¡ 100% listo para usar!                â•‘
-â•‘                                                                       â•‘
-â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+╔═══════════════════════════════════════════════════════════════════════╗
+║                                                                       ║
+║                 🎯 BIENVENIDO! 🎯                                    ║
+║                                                                       ║
+║              NMAP INTERACTIVE TUTOR                                  ║
+║              Tu asistente educativo completo para Nmap               ║
+║                                                                       ║
+║              ¡Tu programa está 100% listo para usar!                ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
 
 
-ðŸ“¦ ARCHIVOS CREADOS
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+📦 ARCHIVOS CREADOS
+═══════════════════════════════════════════════════════════════════════
 
-âœ… nmap_interactive_tutor.py    (2000+ lÃ­neas de cÃ³digo)
-âœ… README.md                      (DocumentaciÃ³n completa)
-âœ… QUICK_START.md                 (Inicio en 5 minutos)
-âœ… COMANDOS_REFERENCIA.md         (50+ comandos listos)
-âœ… FAQ.md                         (60+ preguntas respondidas)
-âœ… INDEX.md                       (GuÃ­a de archivos)
-âœ… install.sh                     (InstalaciÃ³n automÃ¡tica)
-âœ… requirements.txt               (Dependencias)
+✅ nmap_interactive_tutor.py    (2000+ líneas de código)
+✅ README.md                      (Documentación completa)
+✅ QUICK_START.md                 (Inicio en 5 minutos)
+✅ COMANDOS_REFERENCIA.md         (50+ comandos listos)
+✅ FAQ.md                         (60+ preguntas respondidas)
+✅ INDEX.md                       (Guía de archivos)
+✅ install.sh                     (Instalación automática)
+✅ requirements.txt               (Dependencias)
 
-Total: 8 archivos, ~20,000 lÃ­neas de documentaciÃ³n + cÃ³digo
+Total: 8 archivos, ~20,000 líneas de documentación + código
 
 
-ðŸš€ Â¡COMIENZA EN 3 PASOS!
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+🚀 ¡COMIENZA EN 3 PASOS!
+═══════════════════════════════════════════════════════════════════════
 
 PASO 1: Abre una terminal en este directorio
         $ cd /ruta/al/proyecto/nmap\ scanner
 
-PASO 2: Ejecuta la instalaciÃ³n automÃ¡tica
+PASO 2: Ejecuta la instalación automática
         $ bash install.sh
         
         (Instala Python, Nmap y dependencias)
 
-PASO 3: Â¡Inicia el programa!
+PASO 3: ¡Inicia el programa!
         $ python3 nmap_interactive_tutor.py
 
 
-ðŸ“š Â¿DÃ“NDE LEER PRIMERO?
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+📚 ¿DÓNDE LEER PRIMERO?
+═══════════════════════════════════════════════════════════════════════
 
 Para PRIMERAS VEZ:
-  â†’ QUICK_START.md          (5 minutos de setup)
+  → QUICK_START.md          (5 minutos de setup)
 
 Para PRINCIPIANTES:
-  â†’ README.md               (DocumentaciÃ³n principal)
-  â†’ Luego: ejecuta programa + Nivel 1
+  → README.md               (Documentación principal)
+  → Luego: ejecuta programa + Nivel 1
 
-Para BÃšSQUEDA RÃPIDA:
-  â†’ COMANDOS_REFERENCIA.md  (Referencia de comandos)
+Para BÚSQUEDA RÁPIDA:
+  → COMANDOS_REFERENCIA.md  (Referencia de comandos)
 
 Para AYUDA URGENTE:
-  â†’ FAQ.md                  (60+ preguntas respondidas)
+  → FAQ.md                  (60+ preguntas respondidas)
 
-Para ORIENTACIÃ“N GENERAL:
-  â†’ INDEX.md                (GuÃ­a de todos los archivos)
+Para ORIENTACIÓN GENERAL:
+  → INDEX.md                (Guía de todos los archivos)
 
 
-ðŸŽ“ CONTENIDO EDUCATIVO
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+🎓 CONTENIDO EDUCATIVO
+═══════════════════════════════════════════════════════════════════════
 
 El programa incluye 4 niveles progresivos:
 
-ðŸ”° NIVEL 1: BÃSICO (20 min)
-   â€¢ Conceptos fundamentales
-   â€¢ Escaneo bÃ¡sico
-   â€¢ Tu primer comando
+🔰 NIVEL 1: BÁSICO (20 min)
+   • Conceptos fundamentales
+   • Escaneo básico
+   • Tu primer comando
 
-âš™ï¸ NIVEL 2: INTERMEDIO (30 min)
-   â€¢ DetecciÃ³n de servicios
-   â€¢ IdentificaciÃ³n del SO
-   â€¢ InformaciÃ³n detallada
+⚙️ NIVEL 2: INTERMEDIO (30 min)
+   • Detección de servicios
+   • Identificación del SO
+   • Información detallada
 
-ðŸ”¥ NIVEL 3: AVANZADO (40 min)
-   â€¢ Scripts automatizados
-   â€¢ TÃ©cnicas de evasiÃ³n
-   â€¢ Reconocimiento sofisticado
+🔥 NIVEL 3: AVANZADO (40 min)
+   • Scripts automatizados
+   • Técnicas de evasión
+   • Reconocimiento sofisticado
 
-ðŸ’¾ NIVEL 4: REPORTES (15 min)
-   â€¢ ExportaciÃ³n de resultados
-   â€¢ Formatos profesionales
-   â€¢ IntegraciÃ³n con herramientas
+💾 NIVEL 4: REPORTES (15 min)
+   • Exportación de resultados
+   • Formatos profesionales
+   • Integración con herramientas
 
 
-âš¡ INSTALACIÃ“N RÃPIDA (SIN PASOS)
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+⚡ INSTALACIÓN RÁPIDA (SIN PASOS)
+═══════════════════════════════════════════════════════════════════════
 
 Si tienes Linux y quieres empezar AHORA:
 
   $ bash install.sh && python3 nmap_interactive_tutor.py
 
-Â¡Eso es! El script instala todo automÃ¡ticamente.
+¡Eso es! El script instala todo automáticamente.
 
 
-ðŸ’¡ CONCEPTOS CLAVE
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+💡 CONCEPTOS CLAVE
+═══════════════════════════════════════════════════════════════════════
 
-Este programa enseÃ±a a usar Nmap, que es una herramienta para:
+Este programa enseña a usar Nmap, que es una herramienta para:
 
-âœ“ Descubrir mÃ¡quinas en una red
-âœ“ Escanear puertos
-âœ“ Identificar servicios
-âœ“ Detectar vulnerabilidades
-âœ“ Auditar seguridad
+✓ Descubrir máquinas en una red
+✓ Escanear puertos
+✓ Identificar servicios
+✓ Detectar vulnerabilidades
+✓ Auditar seguridad
 
 TODO DE FORMA INTERACTIVA Y EDUCATIVA
 
 
-âš–ï¸ IMPORTANTE - LEE ESTO PRIMERO
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+⚖️ IMPORTANTE - LEE ESTO PRIMERO
+═══════════════════════════════════════════════════════════════════════
 
-âš ï¸  RESPONSABILIDAD LEGAL:
+⚠️  RESPONSABILIDAD LEGAL:
 
-âœ… LEGAL - Puedes usar Nmap para:
-   â€¢ Escanear tu propio hardware
-   â€¢ MÃ¡quinas virtuales propias
-   â€¢ Con permiso escrito del propietario
-   â€¢ Pentesting autorizado
+✅ LEGAL - Puedes usar Nmap para:
+   • Escanear tu propio hardware
+   • Máquinas virtuales propias
+   • Con permiso escrito del propietario
+   • Pentesting autorizado
 
-âŒ ILEGAL - NUNCA hagas:
-   â€¢ Escanear sistemas sin autorizaciÃ³n
-   â€¢ Acceso no autorizado
-   â€¢ Violar leyes cibernÃ©ticas
+❌ ILEGAL - NUNCA hagas:
+   • Escanear sistemas sin autorización
+   • Acceso no autorizado
+   • Violar leyes cibernéticas
 
-â— CONSECUENCIAS:
-   Multas y/o PRISIÃ“N por uso no autorizado
+❗ CONSECUENCIAS:
+   Multas y/o PRISIÓN por uso no autorizado
 
 **Al usar este programa aceptas que eres responsable de tus acciones**
 
 
-ðŸ› ï¸ REQUISITOS
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+🛠️ REQUISITOS
+═══════════════════════════════════════════════════════════════════════
 
-MÃ­nimos:
-  â€¢ Linux (Ubuntu, Debian, Fedora, Arch, etc.)
-  â€¢ Python 3.7+
-  â€¢ Navegador o terminal
+Mínimos:
+  • Linux (Ubuntu, Debian, Fedora, Arch, etc.)
+  • Python 3.7+
+  • Navegador o terminal
 
 Opcionales:
-  â€¢ colorama (para mejor visualizaciÃ³n)
-  â€¢ Nmap (se instala automÃ¡ticamente)
+  • colorama (para mejor visualización)
+  • Nmap (se instala automáticamente)
 
 
-ðŸŽ¯ FLUJO TÃPICO DE USO
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+🎯 FLUJO TÍPICO DE USO
+═══════════════════════════════════════════════════════════════════════
 
 1. Ejecuta el programa
 2. Acepta las advertencias (IMPORTANTE)
-3. MenÃº Principal â†’ [1] Aprendizaje Guiado
+3. Menú Principal → [1] Aprendizaje Guiado
 4. Elige Nivel 1
 5. Sigue las instrucciones paso a paso
 6. El programa construye comandos para ti
 7. Aprende mientras practicas
 8. Avanza a siguientes niveles
-9. Â¡Domina Nmap!
+9. ¡Domina Nmap!
 
 
-ðŸ“Š CARACTERÃSTICAS DEL PROGRAMA
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+📊 CARACTERÍSTICAS DEL PROGRAMA
+═══════════════════════════════════════════════════════════════════════
 
-âœ¨ Interfaz interactiva y amigable
-âœ¨ Explicaciones completas para cada opciÃ³n
-âœ¨ 5 ejemplos prÃ¡cticos listos para usar
-âœ¨ ConstrucciÃ³n dinÃ¡mica de comandos
-âœ¨ ValidaciÃ³n inteligente de entradas
-âœ¨ Historial de comandos automÃ¡tico
-âœ¨ Colores en consola para mejor lectura
-âœ¨ EjecuciÃ³n integrada de Nmap
-âœ¨ Guardado de comandos
-âœ¨ Modo construcciÃ³n libre
-âœ¨ Sistema de ayuda completo
-âœ¨ Toda la documentaciÃ³n incluida
+✨ Interfaz interactiva y amigable
+✨ Explicaciones completas para cada opción
+✨ 5 ejemplos prácticos listos para usar
+✨ Construcción dinámica de comandos
+✨ Validación inteligente de entradas
+✨ Historial de comandos automático
+✨ Colores en consola para mejor lectura
+✨ Ejecución integrada de Nmap
+✨ Guardado de comandos
+✨ Modo construcción libre
+✨ Sistema de ayuda completo
+✨ Toda la documentación incluida
 
 
-ðŸŽ“ PRIMEROS 30 MINUTOS
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+🎓 PRIMEROS 30 MINUTOS
+═══════════════════════════════════════════════════════════════════════
 
 Todo lo que necesitas hacer:
 
 1. Instalar (5 min)          bash install.sh
 2. Ejecutar (10 min)         python3 nmap_interactive_tutor.py
-3. Nivel 1 BÃ¡sico (15 min)   Sigue el programa
-4. Â¡Ã‰xito! (âˆž)               Ya entiendes lo bÃ¡sico
+3. Nivel 1 Básico (15 min)   Sigue el programa
+4. ¡Éxito! (∞)               Ya entiendes lo básico
 
-Al terminar: Â¡Sabes usar Nmap de forma bÃ¡sica!
+Al terminar: ¡Sabes usar Nmap de forma básica!
 
 
-ðŸ”— ESTRUCTURA DE ARCHIVOS
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+🔗 ESTRUCTURA DE ARCHIVOS
+═══════════════════════════════════════════════════════════════════════
 
 nmap_scanner/                    (Este directorio)
-â”‚
-â”œâ”€ nmap_interactive_tutor.py     â­ PROGRAMA (ejecuta esto)
-â”‚  
-â”œâ”€ install.sh                    âš™ï¸ InstalaciÃ³n (ejecuta primero)
-â”‚  
-â”œâ”€ DOCUMENTACIÃ“N:
-â”‚  â”œâ”€ README.md                  (InformaciÃ³n completa)
-â”‚  â”œâ”€ QUICK_START.md             (5 minutos de setup)
-â”‚  â”œâ”€ COMANDOS_REFERENCIA.md     (BÃºsqueda de comandos)
-â”‚  â”œâ”€ FAQ.md                     (Preguntas frecuentes)
-â”‚  â”œâ”€ INDEX.md                   (GuÃ­a de archivos)
-â”‚  â””â”€ (Este archivo)             (Bienvenida visual)
-â”‚
-â””â”€ CONFIGURACIÃ“N:
-   â””â”€ requirements.txt           (Dependencias Python)
+│
+├─ nmap_interactive_tutor.py     ⭐ PROGRAMA (ejecuta esto)
+│  
+├─ install.sh                    ⚙️ Instalación (ejecuta primero)
+│  
+├─ DOCUMENTACIÓN:
+│  ├─ README.md                  (Información completa)
+│  ├─ QUICK_START.md             (5 minutos de setup)
+│  ├─ COMANDOS_REFERENCIA.md     (Búsqueda de comandos)
+│  ├─ FAQ.md                     (Preguntas frecuentes)
+│  ├─ INDEX.md                   (Guía de archivos)
+│  └─ (Este archivo)             (Bienvenida visual)
+│
+└─ CONFIGURACIÓN:
+   └─ requirements.txt           (Dependencias Python)
 
 
-âš¡ ATAJOS ÃšTILES
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+⚡ ATAJOS ÚTILES
+═══════════════════════════════════════════════════════════════════════
 
 Dentro del programa puedes escribir:
-  â€¢ "info"     â†’ Ver mÃ¡s detalles
-  â€¢ "ejemplo"  â†’ Ver comando de ejemplo
-  â€¢ "saltar"   â†’ Omitir esta opciÃ³n
-  â€¢ CTRL+C     â†’ Salir en cualquier momento
+  • "info"     → Ver más detalles
+  • "ejemplo"  → Ver comando de ejemplo
+  • "saltar"   → Omitir esta opción
+  • CTRL+C     → Salir en cualquier momento
 
 
-â“ DUDAS COMUNES
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+❓ DUDAS COMUNES
+═══════════════════════════════════════════════════════════════════════
 
-P: Â¿Necesito sudo para todo?
-R: No, solo algunos escaneos. El programa te lo indicarÃ¡.
+P: ¿Necesito sudo para todo?
+R: No, solo algunos escaneos. El programa te lo indicará.
 
-P: Â¿FuncionarÃ¡ en Windows?
+P: ¿Funcionará en Windows?
 R: Necesitas WSL (Windows Subsystem for Linux). Consulta FAQ.md
 
-P: Â¿Ya tengo Nmap instalado?
+P: ¿Ya tengo Nmap instalado?
 R: El instalador lo detecta. Si no existe, lo instala.
 
-P: Â¿Puedo practicar sin peligro?
-R: SÃ­! Usa tu propia mÃ¡quina o mÃ¡quinas virtuales.
+P: ¿Puedo practicar sin peligro?
+R: Sí! Usa tu propia máquina o máquinas virtuales.
 
-P: Â¿QuÃ© es legal?
-R: Consulta FAQ.md - SecciÃ³n de seguridad y legalidad.
+P: ¿Qué es legal?
+R: Consulta FAQ.md - Sección de seguridad y legalidad.
 
 
-ðŸš€ COMIENZA AHORA
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+🚀 COMIENZA AHORA
+═══════════════════════════════════════════════════════════════════════
 
 Los 3 comandos que necesitas:
 
@@ -248,62 +248,62 @@ Los 3 comandos que necesitas:
   2. bash install.sh
   3. python3 nmap_interactive_tutor.py
 
-Â¡Eso es! El resto es automÃ¡tico.
+¡Eso es! El resto es automático.
 
 
-ðŸ“ž SOPORTE Y AYUDA
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+📞 SOPORTE Y AYUDA
+═══════════════════════════════════════════════════════════════════════
 
-Problema               â†’ Consulta
-InstalaciÃ³n           â†’ QUICK_START.md
-Comandos de Nmap      â†’ COMANDOS_REFERENCIA.md
-Preguntas tÃ©cnicas    â†’ FAQ.md
-OrientaciÃ³n general   â†’ README.md
-Â¿DÃ³nde buscar?        â†’ INDEX.md
-Error especifico      â†’ Busca en FAQ.md
-Ayuda urgente         â†’ OpciÃ³n [5] del programa
+Problema               → Consulta
+Instalación           → QUICK_START.md
+Comandos de Nmap      → COMANDOS_REFERENCIA.md
+Preguntas técnicas    → FAQ.md
+Orientación general   → README.md
+¿Dónde buscar?        → INDEX.md
+Error especifico      → Busca en FAQ.md
+Ayuda urgente         → Opción [5] del programa
 
 
-âœ… CHECKLIST ANTES DE EMPEZAR
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+✅ CHECKLIST ANTES DE EMPEZAR
+═══════════════════════════════════════════════════════════════════════
 
 Marca cuando completes cada paso:
 
-  â˜ He leÃ­do esta bienvenida
-  â˜ Tengo Linux instalado (o WSL)
-  â˜ Tengo terminal abierta
-  â˜ Estoy en el directorio correcto
-  â˜ Entiendo las advertencias legales
-  â˜ Estoy listo para instalar
-  â˜ Estoy listo para aprender
+  ☐ He leído esta bienvenida
+  ☐ Tengo Linux instalado (o WSL)
+  ☐ Tengo terminal abierta
+  ☐ Estoy en el directorio correcto
+  ☐ Entiendo las advertencias legales
+  ☐ Estoy listo para instalar
+  ☐ Estoy listo para aprender
 
 
-ðŸŽ–ï¸ CUANDO COMPLETES
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+🎖️ CUANDO COMPLETES
+═══════════════════════════════════════════════════════════════════════
 
-DespuÃ©s de usar este programa, podrÃ¡s:
+Después de usar este programa, podrás:
 
-âœ“ Entender cÃ³mo funciona Nmap
-âœ“ Ejecutar escaneos bÃ¡sicos
-âœ“ Construir comandos complejos
-âœ“ Detectar servicios y versiones
-âœ“ Analizar redes de forma segura
-âœ“ Generar reportes profesionales
-âœ“ Comprender tÃ©cnicas avanzadas
-âœ“ Estar listo para pentesting real
+✓ Entender cómo funciona Nmap
+✓ Ejecutar escaneos básicos
+✓ Construir comandos complejos
+✓ Detectar servicios y versiones
+✓ Analizar redes de forma segura
+✓ Generar reportes profesionales
+✓ Comprender técnicas avanzadas
+✓ Estar listo para pentesting real
 
 
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+═══════════════════════════════════════════════════════════════════════
 
-              Â¡BIENVENIDO AL MUNDO DE NMAP!
+              ¡BIENVENIDO AL MUNDO DE NMAP!
 
              Recuerda: La mejor forma de aprender es haciendo.
 
-    No tengas miedo de experimentar (en tu propia mÃ¡quina).
+    No tengas miedo de experimentar (en tu propia máquina).
 
-                 Â¡Que disfrutes aprendiendo!
+                 ¡Que disfrutes aprendiendo!
 
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+═══════════════════════════════════════════════════════════════════════
 
 
 SIGUIENTES PASOS:
@@ -311,14 +311,14 @@ SIGUIENTES PASOS:
   1. Lee QUICK_START.md (5 minutos)
   2. Ejecuta bash install.sh
   3. Ejecuta python3 nmap_interactive_tutor.py
-  4. Â¡Aprende y diviÃ©rtete!
+  4. ¡Aprende y diviértete!
 
 
-Ãšltima actualizaciÃ³n: 2026
-VersiÃ³n: 1.0.0
+Última actualización: 2026
+Versión: 1.0.0
 
 
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
-                          Â¡Adelante! ðŸš€
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+═══════════════════════════════════════════════════════════════════════
+                          ¡Adelante! 🚀
+═══════════════════════════════════════════════════════════════════════
 

@@ -1,4 +1,4 @@
-﻿# Guia de modulos del menu principal
+# Guia de modulos del menu principal
 
 Este documento explica las opciones principales del programa `Nmap Interactive Tutor` para que cualquier usuario entienda que hace cada modulo antes de usarlo.
 
@@ -67,7 +67,7 @@ Este modulo esta pensado para usuarios que ya tienen una idea de lo que quieren 
 
 ### Para que sirve
 
-Permite escribir opciones de Nmap manualmente y ver el comando final sin pasar por toda la explicacion pedagÃ³gica del modo guiado.
+Permite escribir opciones de Nmap manualmente y ver el comando final sin pasar por toda la explicacion pedagógica del modo guiado.
 
 ### Como funciona
 
@@ -246,10 +246,10 @@ Para un usuario nuevo, el orden recomendado es este:
 
 ## Resumen corto de cada modulo
 
-- `Modo Aprendizaje Guiado`: enseÃ±a paso a paso y construye comandos contigo.
+- `Modo Aprendizaje Guiado`: enseña paso a paso y construye comandos contigo.
 - `Construccion Libre de Comando`: deja escribir comandos manualmente.
 - `Ver Ejemplos Practicos`: muestra casos reales listos para estudiar.
-- `Ver Historial de Comandos`: enseÃ±a lo que ya ejecutaste o guardaste.
+- `Ver Historial de Comandos`: enseña lo que ya ejecutaste o guardaste.
 - `Ayuda General`: explica el uso general del sistema.
 - `Retos de Nmap`: evalua si ya aprendiste.
 - `Salir`: cierra el programa.
@@ -258,7 +258,7 @@ Para un usuario nuevo, el orden recomendado es este:
 
 ## Conclusion
 
-El menu principal esta diseÃ±ado para cubrir todo el ciclo de aprendizaje:
+El menu principal esta diseñado para cubrir todo el ciclo de aprendizaje:
 
 - primero entender
 - luego practicar
